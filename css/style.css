@@ -1,0 +1,38 @@
+.welcome {
+    color: purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     
+}
+
+.steven {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    margin: 100px;
+    float: left;
+}
+
+.diamonds {
+    padding: 50px;
+    float: left;    
+}
+
+#white {
+    width: 150px;
+    height: 200px;
+}
+
+#yellow {
+    width: 150px;
+    height: 200px;
+}
+
+#blue {
+    width: 150px;
+    height: 200px;
+}
+
+#pink {
+    width: 150px;
+    height: 200px;
+}
